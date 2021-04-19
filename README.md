@@ -2,7 +2,7 @@
 
 # Micro-reddit
 
-> Built with Ruby on Rails eith more emphasis on ActiveRecord 
+> Built with Ruby on Rails with more emphasis on ActiveRecord 
 
 
 Additional description about the project and its features.
@@ -19,15 +19,17 @@ We created three models namely **User**, **Post** ,**Comment** and used our know
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repository by running ```git clone https://github.com/crappypapa/micro_reddit.git``` in the directory you waish to clone into.
+Clone the repository by running ```git clone https://github.com/crappypapa/micro_reddit.git``` in the directory you wish to clone into.
 
 Or download the Zip folder at ```https://github.com/crappypapa/micro_reddit/archive/refs/heads/develop.zip```
 
-Install yarn and run it
+run  ```yarn ```
 
-Install bundle and run it
+run ```bundle```
 
-You can also take advantage of the rails console by entering ```rails c``` in your terminal
+run ```rails c ``` to open rails  console and be able to interact with the models.
+
+You can also ```require hirb``` in the console and run ```Hirb.enable``` to have a nice display of the data.
 
 ## Authors
 
