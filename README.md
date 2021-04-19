@@ -1,59 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Micro-reddit
 
-> One paragraph statement about the project.
+> Built with Ruby on Rails eith more emphasis on ActiveRecord 
 
-![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
+We created three models namely **User**, **Post** ,**Comment** and used our knowledge of Active Record to set up Validations and Associations on each of the models.
+
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby on Rails --v 6.1.3
+- Ruby --v 3.0.0
+- SQL
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone the repository by running ```git clone https://github.com/crappypapa/micro_reddit.git``` in the directory you waish to clone into.
 
-### Setup
+Or download the Zip folder at ```https://github.com/crappypapa/micro_reddit/archive/refs/heads/develop.zip```
 
-### Install
+Install yarn and run it
 
-### Usage
+Install bundle and run it
 
-### Run tests
-
-### Deployment
-
-
+You can also take advantage of the rails console by entering ```rails c``` in your terminal
 
 ## Authors
 
-👤 **Author1**
+👤 **Olaoluwa Soladoye**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@Crappypapa](https://github.com/crappypapa)
+- Twitter: [@Laoluwa](https://twitter.com/_laoluwa)
+- LinkedIn: [Olaoluwa](https://www.linkedin.com/in/olaoluwa-soladoye)
+
+👤 **Shaher Shamroukh**
+
+- GitHub: [@Shaher](https://github.com/Shaher-11)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- LinkedIn: [@Shaher](https://www.linkedin.com/in/shaher-shamroukh/)
 
 ## 🤝 Contributing
 
@@ -67,9 +55,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- The Odin Project
 
 ## 📝 License
 
